@@ -105,6 +105,7 @@
 	"EIO spokesperson [random_name(MALE)] stated in a press conference yesterday that the \"Shakespear\" A-class codeline was briefly available for download on the darknet, although they claim to be \"confident that the leak was shut down before any significant portion could be downloaded\". Experts suspect Association involvement.",
 	"[pick("Strives Towards", "Embraces", "Dreams of", "Cultivates", "Advocates", "Exemplifies")] [pick("Strength", "Wisdom", "Independence", "Pragmatism", "Reason", "Development")], a Community Child from Angessa's Pearl, published his memoir today, detailing a shocking level of abuse by caretakers and educators.",
 	"Nova Sixty, Mercurial web personality, claims that the disappearence of the SCG-R Song Shi was a plot by \"extradimensional rockmen\" who intend to sow mistrust between the Association and SolGov. Quote Sixty, \"The Far Kingdoms' attempt to hide the TRUTH only proves that they and their rockman allies are NOT to be trusted.\"",
+	"Unusual stellar phenomena was detected on [pick(allloc)], sparking concerns about the colonies in the system.",
 	)
 
 	news_network.SubmitArticle(body, author, channel, null, 1)
